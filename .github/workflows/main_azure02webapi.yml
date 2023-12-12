@@ -54,4 +54,4 @@ jobs:
           app-name: 'Azure02WebApi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_990F2AD38926469182488454CFFF6A45 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_488D182B4C23419582DF3BDFC863DCC0 }}
